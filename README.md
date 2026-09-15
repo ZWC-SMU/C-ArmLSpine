@@ -1,4 +1,3 @@
-# C-ArmLSpine
 # C-ArmLSpine Dataset
 
 ## 📝 Citation
