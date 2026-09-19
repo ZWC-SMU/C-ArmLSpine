@@ -7,7 +7,7 @@ The C-ArmLSpine dataset comprises real intraoperative X-ray images paired with c
 The C-ArmLSpine dataset download link:https://zenodo.org/uploads/22768651
 
 ## Related Works
-[1] PRSCS-Net: Progressive 3D/2D rigid Registration network with the guidance of Single-view Cycle Synthesis.
+[1] PRSCS-Net: Progressive 3D/2D rigid Registration network with the guidance of Single-view Cycle Synthesis. \\
 [2] DAF-Reg: Delta-pose Regression with Adaptive Fusion for patient-specific single-view 2D/3D rigid registration. 
 
 ## 📝 Citation
